@@ -1,0 +1,24 @@
+
+## 🏗️ Core Services
+- [[Compute]]
+- [[Storage]]
+- [[Databases]]
+- [[Networking]]
+- [[Security, Identity, & Compliance]]
+- [[Management & Governance]]
+- [[Application Integration]]
+- [[Migration & Transfer]]
+- [[Machine Learning]]
+- [[Architecture Patterns]]
+
+## 🧠 Exam Domains
+- [[Resilient Architectures]]
+- [[High-Performing Architectures]]
+- [[Secure Applications]]
+- [[Cost-Optimized Architectures]]
+
+---
+## ⚡ Quick Access
+- [[EC2 Purchasing Options]]
+- [[Comparison Table]]
+- [[Mistakes Dashboard]]

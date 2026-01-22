@@ -1,0 +1,8 @@
+| **Image**                                                           | **Service Name**   | **Description (Hebrew)**                                                                           | **Category**    |
+| ------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------- | --------------- |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Integration/SQS.png]]            | [[SQS]]            | שירות תורים מנוהל (Simple Queue Service) להפרדת רכיבי אפליקציה (Decoupling) והודעות א-סינכרוניות.  | [[Integration]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Integration/SNS.png]]            | [[SNS]]            | שירות הפצה ופרסום (Simple Notification Service) במודל Pub/Sub לשליחת התראות, מיילים והודעות.       | [[Integration]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Integration/EventBridge.png]]    | [[EventBridge]]    | שירות לניהול אירועים (Event Bus) המקשר בין אפליקציות, שירותי AWS ויישומי SaaS חיצוניים.            | [[Integration]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Integration/Step Functions.png]] | [[Step Functions]] | תזמור (Orchestration) של תהליכים עסקיים וזרימות עבודה (Workflows) מרובות שלבים מבוססות Serverless. | [[Integration]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Integration/AppSync.png]]        | [[AppSync]]        | שירות מנוהל לבניית API מבוסס GraphQL המאפשר סנכרון נתונים בזמן אמת וגישה למספר מקורות מידע.        | [[Integration]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Integration/Amazon MQ.png]]      | [[Amazon MQ]]      | שירות מנוהל להרצת Message Brokers סטנדרטיים בתעשייה (כמו RabbitMQ או ActiveMQ).                    | [[Integration]] |

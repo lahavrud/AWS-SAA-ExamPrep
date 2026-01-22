@@ -1,0 +1,10 @@
+
+| **Image**                                                          | **Service Name**    | **Description (Hebrew)**                                                                                     | **Category**  |     |
+| ------------------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------ | ------------- | --- |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Migration/DMS.png]]             | [[DMS]]             | Database Migration Service - שירות להגירה וסנכרון של מסדי נתונים בצורה מאובטחת ורציפה (Minimal Downtime).    | [[Migration]] |     |
+| ![[SCT.png]]                                                       | [[SCT]]             | Schema Conversion Tool - כלי להמרת סכמות מסדי נתונים כאשר עוברים בין מנועים שונים (Heterogeneous Migration). | [[Migration]] |     |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Migration/MGN.png]]             | [[MGN]]             | Application Migration Service - השירות המומלץ להגירת שרתים (Lift and Shift) משרתים פיזיים או עננים אחרים.    | [[Migration]] |     |
+| ![[DRS.png]]                                                       | [[DRS]]             | Disaster Recovery - שירות המצבע שכפול מתמשך של שרתים לתוך AWS בשביל להבטיח המשכיות עסקית.                    | [[Migration]] |     |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Migration/DataSync.png]]        | [[DataSync]]        | אוטומציה והאצה של העברת נתונים בין מערכות אחסון מקומיות (NFS/SMB) ל-AWS (S3/EFS/FSx).                        | [[Migration]] |     |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Migration/Transfer Family.png]] | [[Transfer Family]] | שירות מנוהל להעברת קבצים בפורמטים SFTP, FTPS ו-FTP ישירות ל-S3 או ל-EFS.                                     | [[Migration]] |     |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Migration/Migration Hub.png]]   | [[Migration Hub]]   | פורטל מרכזי למעקב וניהול של פרויקטי הגירה מרובים על פני מגוון כלי AWS וצד שלישי.                             | [[Migration]] |     |

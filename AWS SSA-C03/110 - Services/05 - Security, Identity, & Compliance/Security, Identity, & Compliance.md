@@ -1,0 +1,18 @@
+| **Image**                                                                   | **Service Name**              | **Description (Hebrew)**                                                    | **Category** |
+| --------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ------------ |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/IAM.png]]                       | [[IAM]]                       | ניהול זהויות והרשאות גישה למשאבי AWS (Users, Groups, Roles).                | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/AWS STS.png]]                   | [[AWS STS]]                   | שירות להנפקת אישורים זמניים (Temporary Credentials) לגישה למשאבים.          | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/IAM Identity Center.png]]       | [[IAM Identity Center]]       | ניהול Single Sign-On (SSO) וגישה מרכזית לכל חשבונות הארגון.                 | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Cognito.png]]                   | [[Cognito]]                   | ניהול זהויות משתמשים (Login/Signup) לאפליקציות Web ו-Mobile.                | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/GuardDuty.png]]                 | [[GuardDuty]]                 | שירות זיהוי איומים חכם (Threat Detection) המנטר פעילות חשודה בחשבון.        | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Inspector.png]]                 | [[Inspector]]                 | שירות אוטומטי לסריקת פגיעויות אבטחה בשרתי [[EC2]] ובקונטיינרים.             | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Macie.png]]                     | [[Macie]]                     | זיהוי והגנה על מידע רגיש (PII) ב-S3 באמצעות למידת מכונה.                    | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Shield.png]]                    | [[Shield]]                    | הגנה מנוהלת מפני התקפות מניעת שירות (DDoS) בשכבות 3 ו-4.                    | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/WAF.png]]                       | [[WAF]]                       | Web Application Firewall לסינון תעבורת HTTP/S והגנה מפני SQL Injection/XSS. | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/KMS.png]]                       | [[KMS]]                       | שירות לניהול ויצירת מפתחות הצפנה (Keys) להגנה על הנתונים.                   | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Secrets Manager.png]]           | [[Secrets Manager]]           | ניהול, אחסון וסיבוב (Rotation) אוטומטי של סודות וסיסמאות.                   | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Certificate Manager (ACM).png]] | [[Certificate Manager (ACM)]] | ניהול, הנפקה וחידוש אוטומטי של תעודות SSL/TLS.                              | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Artifact.png]]                  | [[Artifact]]                  | פורטל להורדת דוחות ציות (Compliance) ומסמכי רגולציה של AWS.                 | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Security Hub.png]]              | [[Security Hub]]              | מרכז בקרה מרכזי לניהול אבטחה וסיכום התראות מכל שירותי האבטחה.               | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Detective.png]]                 | [[Detective]]                 | כלי לחקירה וניתוח של גורמי השורש לאירועי אבטחה מורכבים.                     | [[Security]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Security/Audit Manager.png]]             | [[Audit Manager]]             | אוטומציה של הערכת בקרות לצורך עמידה בתקני רגולציה.                          | [[Security]] |

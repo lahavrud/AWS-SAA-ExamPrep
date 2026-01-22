@@ -1,0 +1,10 @@
+| **Image**                                                             | **Service Name** | **Description (Hebrew)**                                                             | **Category**         |
+| --------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------- |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/SageMaker.png]]   | [[SageMaker]]    | פלטפורמה מקצה לקצה לבנייה, אימון ופריסה של מודלים של למידת מכונה (Machine Learning). | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Rekognition.png]] | [[Rekognition]]  | ניתוח תמונות ווידאו לזיהוי אובייקטים, פנים, טקסט ותכנים לא הולמים.                   | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Polly.png]]       | [[Polly]]        | שירות ההופך טקסט לדיבור אנושי טבעי (Text-to-Speech) במגוון שפות וקולות.              | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Lex.png]]         | [[Lex]]          | שירות לבניית ממשקי שיחה (Chatbots) מבוססי קול וטקסט (הטכנולוגיה שמאחורי Alexa).      | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Comprehend.png]]  | [[Comprehend]]   | ניתוח טקסט (NLP) לחילוץ תובנות, רגשות, שמות ישויות וקשרים בתוך טקסט לא מובנה.        | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Textract.png]]    | [[Textract]]     | חילוץ אוטומטי של טקסט, כתב יד ונתונים מטבלאות ומסמכים סרוקים (מעבר ל-OCR רגיל).      | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Transcribe.png]]  | [[Transcribe]]   | המרת דיבור לטקסט (Speech-to-Text) בזמן אמת או מקבצים מוקלטים.                        | [[Machine Learning]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Machine Learning/Translate.png]]   | [[Translate]]    | תרגום שוטף ומדויק של טקסט בין שפות רבות המותאם להקשר הלשוני.                         | [[Machine Learning]] |

@@ -1,0 +1,16 @@
+| **Image**                                                                 | **Service Name**          | **Description (Hebrew)**                                                     | **Category**   |
+| ------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------- | -------------- |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/CloudWatch.png]]            | [[CloudWatch]]            | ניטור משאבים ואפליקציות בזמן אמת, איסוף מטריקות והגדרת התראות (Alarms).      | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/CloudTrail.png]]            | [[CloudTrail]]            | תיעוד וניטור של כל פעולות ה-API בחשבון לצרכי אבטחה, ציות וביקורת.            | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/AWS Config.png]]            | [[AWS Config]]            | מעקב אחר שינויי קונפיגורציה במשאבים ובדיקת תאימות לחוקים מוגדרים.            | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/AWS Organizations.png]]     | [[AWS Organizations]]     | ניהול מרכזי של מספר חשבונות AWS, איחוד חשבוניות והחלת [[SCPs]].              | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Control Tower.png]]         | [[Control Tower]]         | הקמה וניהול של סביבת Multi-account מאובטחת (Landing Zone) באופן אוטומטי.     | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Systems Manager.png]]       | [[Systems Manager]]       | ניהול תפעולי של תשתיות (SSM), כולל עדכוני תוכנה, הרצת פקודות וניהול סודות.   | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/CloudFormation.png]]        | [[CloudFormation]]        | תשתית כקוד (IaC) להקמה וניהול אוטומטי של משאבי AWS באמצעות קבצי YAML/JSON.   | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Service Catalog.png]]       | [[Service Catalog]]       | יצירה וניהול של קטלוג שירותי IT מאושרים לשימוש עצמי של משתמשי הארגון.        | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Trusted Advisor.png]]       | [[Trusted Advisor]]       | כלי לייעוץ אופטימיזציה בתחומי אבטחה, ביצועים, עלויות ושרידות.                | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Compute Optimizer.png]]     | [[Compute Optimizer]]     | המלצות מבוססות בינה מלאכותית לבחירת סוגי המשאבים (EC2/Lambda) היעילים ביותר. | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Health Dashboard.png]]      | [[Health Dashboard]]      | תצוגה מרכזית של מצב השירותים של AWS והתראות על תקלות או תחזוקה מתוכננת.      | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/AWS RAM.png]]               | [[AWS RAM]]               | שיתוף משאבים (כמו Subnets או Transit Gateways) בין חשבונות שונים בארגון.     | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/License Manager.png]]       | [[License Manager]]       | ניהול ובקרה על רישיונות תוכנה (כמו Microsoft או SAP) בתוך ענן AWS.           | [[Management]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Management/Well-Architected Tool.png]] | [[Well-Architected Tool]] | כלי לבחינת ארכיטקטורות מול ה-Best Practices של AWS בחמישה (או שישה) עקרונות. | [[Management]] |

@@ -1,0 +1,18 @@
+| **Image**                                                              | **Service Name**       | **Description (Hebrew)**                                                    | **Category**   |
+| ---------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------- | -------------- |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/VPC.png]]                | [[VPC]]                | רשת וירטואלית מבודדת בענן להרצת משאבי AWS (תת-רשתות, טבלאות ניתוב).         | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Route 53.png]]           | [[Route 53]]           | שירות DNS מנוהל ושריד לניהול שמות דומיין וניתוב תעבורה חכם.                 | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/CloudFront.png]]         | [[CloudFront]]         | רשת הפצת תוכן (CDN) לשיפור מהירות ואבטחת גישה לאתרים וקבצים.                | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/ALB.png]]                | [[ALB]]                | Application Load Balancer - פיזור תעבורה בשכבה 7 (HTTP/HTTPS).              | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/NLB.png]]                | [[NLB]]                | Network Load Balancer - פיזור תעבורה בשכבה 4 (TCP/UDP) לביצועים גבוהים.     | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/GWLB.png]]               | [[GWLB]]               | Gateway Load Balancer - פריסה וניהול של Virtual Appliances (כמו Firewalls). | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Global Accelerator.png]] | [[Global Accelerator]] | שיפור ביצועי אפליקציות גלובליות באמצעות ניתוב על גבי הרשת של AWS.           | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Transit Gateway.png]]    | [[Transit Gateway]]    | מרכז ניתוב מרכזי (Hub) לחיבור עשרות VPCs ורשתות On-premises.                | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/API Gateway.png]]        | [[API Gateway]]        | שירות מנוהל ליצירה, פרסום ותחזוקה של API בקנה מידה רחב.                     | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Direct Connect.png]]     | [[Direct Connect]]     | חיבור פיזי ייעודי ופרטי בין ה-Data Center של הארגון ל-AWS.                  | [[Networking]] |
+| ![[vpc-peering.png]]                                                   | [[VPC Peering]]        | חיבור ישיר בין שני VPCs המאפשר להם לתקשר בכתובות IP פרטיות.                 | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/PrivateLink.png]]        | [[PrivateLink]]        | גישה פרטית ומאובטחת לשירותים בתוך AWS מבלי לחשוף אותם לאינטרנט.             | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Site-to-Site VPN.png]]   | [[Site-to-Site VPN]]   | חיבור מוצפן (IPsec) בין הרשת הארגונית ל-VPC על גבי האינטרנט.                | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Client VPN.png]]         | [[Client VPN]]         | חיבור מרחוק של משתמשי קצה (עובדים) לרשת ה-VPC בצורה מאובטחת.                | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Network Firewall.png]]   | [[Network Firewall]]   | שירות אבטחה מנוהל להגנה על ה-VPC באמצעות סינון תעבורה מתקדם.                | [[Networking]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Networking/Cloud Map.png]]          | [[Cloud Map]]          | שירות לניהול וגילוי שירותים (Service Discovery) עבור אפליקציות מבוזרות.     | [[Networking]] |

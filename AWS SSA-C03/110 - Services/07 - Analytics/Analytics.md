@@ -1,0 +1,12 @@
+| **Image** | **Service Name**           | **Description (Hebrew)**                                                                   | **Category**  |
+| --------- | -------------------------- | ------------------------------------------------------------------------------------------ | ------------- |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/Kinesis Data Streams.png]] | [[Kinesis Data Streams]]   | שירות להזרמת נתונים (Streaming) בזמן אמת בקנה מידה רחב לצורך עיבוד מהיר.                   | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/Amazon Data Firehose.png]] | [[Amazon Data Firehose]]   | טעינת נתוני הזרמה בזמן אמת למחסני נתונים כמו S3, Redshift ו-OpenSearch.                    | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/Kinesis Data Analytics.png]] | [[Kinesis Data Analytics]] | ניתוח נתוני הזרמה בזמן אמת באמצעות שאילתות SQL או Apache Flink.                            | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/Athena.png]] | [[Athena]]                 | שירות שאילתות אינטראקטיבי המאפשר לנתח נתונים ב-S3 באמצעות SQL סטנדרטי ללא שרתים.           | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/Glue.png]] | [[Glue]]                   | שירות ETL מנוהל (Extract, Transform, Load) להכנה, ניקוי ושילוב נתונים ממקורות שונים.       | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/OpenSearch.png]] | [[OpenSearch]]             | שירות לחיפוש, ניתוח וויזואליזציה של נתונים ולוגים בזמן אמת (מבוסס Elasticsearch).          | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/EMR.png]] | [[EMR]]                    | פלטפורמת ענן לביצוע עיבודי ביג דאטה מורכבים באמצעות Hadoop, Spark וכלים דומים.             | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/QuickSight.png]] | [[QuickSight]]             | שירות Business Intelligence (BI) מהיר ומנוהל ליצירת לוחות בקרה (Dashboards) וויזואליזציות. | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/MSK.png]] | [[MSK]]                    | שירות מנוהל להרצת Apache Kafka, המאפשר בניית יישומי הזרמת נתונים ללא ניהול תשתית.          | [[Analytics]] |
+| ![[AWS SSA-C03/9999 - Assets/Icons/Analytics/Lake Formation.png]] | [[Lake Formation]]         | שירות המפשט את ההקמה, הניהול והאבטחה של אגמי נתונים (Data Lakes).                          | [[Analytics]] |

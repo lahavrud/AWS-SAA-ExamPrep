@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "3b2e0f442111e096",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9361346d7e05a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b2339011e7092b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS SSA-C03/2000 - Tests/DojoTest 1/Qs/Q7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q7"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2bd0710563a33fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3d7fa375abdf49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS SSA-C03/2000 - Architecture & Design/Disaster Recovery Strategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disaster Recovery Strategies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e78f583a67d7f349",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de4529737dc8543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa67a10be6a49912",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9216cd59cbdaebce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "260783314c3262d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "6fc6a65ba461d95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5c0139325a87a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ef3d27970ab0af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Account Managment/AWS Account Management & Governance (MOC).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AWS Account Management & Governance (MOC)"
+            }
+          },
+          {
+            "id": "79a07aa4f2bd6334",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Account Managment/AWS Account Management & Governance (MOC).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AWS Account Management & Governance (MOC)"
+            }
+          },
+          {
+            "id": "5df125bfbebff673",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "117bd1cd16555576",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3483af8e216bb8e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Account Managment/AWS Account Management & Governance (MOC).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS Account Management & Governance (MOC)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a1b2339011e7092b",
+  "lastOpenFiles": [
+    "AWS SSA-C03/2000 - Architecture & Design/Disaster Recovery Strategies.md",
+    "DRS.md",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Qs/Q7.md",
+    "AWS SSA-C03/2000 - Architecture & Design",
+    "AWS SSA-C03/110 - Services/02 - Storage/Services/FSx.md",
+    "FSx.md",
+    "AWS SSA-C03/9999 - Assets/Templates/All Services.md",
+    "RPO.md",
+    "AWS SSA-C03/110 - Services/01 - Compute/Services/EC2.md",
+    "AWS SSA-C03/110 - Services/01 - Compute/Dashboard/Compute.md",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Dashboard/DojoTest 1.md",
+    "AWS SSA-C03/9999 - Assets/Templates/Mistake Template.md",
+    "AWS SSA-C03/100 - Dashboards/Mistakes Dashboard.md",
+    "AWS SSA-C03/110 - Services/08 - Migration & Transfer/Migration & Transfer.md",
+    "AWS SSA-C03/9999 - Assets/Icons/Migration/DRS.png",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Qs/Q5.md",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Qs/Q1.md",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Dashboard",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Qs",
+    "AWS SSA-C03/100 - Dashboards/Exam Dashboard.md",
+    "AWS SSA-C03/110 - Services/02 - Storage/Dashboard",
+    "AWS SSA-C03/110 - Services/02 - Storage/Services",
+    "AWS SSA-C03/110 - Services/01 - Compute/Dashboard",
+    "AWS SSA-C03/110 - Services/01 - Compute/Other Stuff",
+    "AWS SSA-C03/110 - Services/01 - Compute/Services/User Data.md",
+    "AWS SSA-C03/110 - Services/01 - Compute/Services",
+    "AWS SSA-C03/110 - Services/02 - Storage/Dashboard/Storage.md",
+    "AWS SSA-C03/110 - Services/05 - Security, Identity, & Compliance/Security, Identity, & Compliance.md",
+    "AWS SSA-C03/110 - Services/07 - Application Integration/Application Integration.md",
+    "AWS SSA-C03/110 - Services/03 - Databases/Databases.md",
+    "AWS SSA-C03/2000 - Tests/DojoTest 1/Qs/Q8.md",
+    "On-Demand.md",
+    "AWS SSA-C03/110 - Services/09 - Machine Learning/Machine Learning.md",
+    "AWS SSA-C03/110 - Services/06 - Management & Governance/Management & Governance.md",
+    "AWS SSA-C03/110 - Services/04 - Networking/Networking.md",
+    "AWS SSA-C03/9999 - Assets/Icons/Compute/Arch_Amazon-Elastic-VMware-Service_64@5x.png",
+    "Pasted image 20260121214629.png",
+    "AWS SSA-C03/9999 - Assets/Images/EDR-Arch.png",
+    "Pasted image 20260121215347.png",
+    "AWS SSA-C03/9999 - Assets/Icons/Databases/SCT.png",
+    "AWS SSA-C03/9999 - Assets/Icons/Networking/vpc-peering.png",
+    "Pasted image 20260121214906.png",
+    "Res_Amazon-VPC_Peering-Connection_48.png",
+    "AWS SSA-C03/9999 - Assets/Icons/Storage/Storage Gateway.png",
+    "AWS SSA-C03/9999 - Assets/Icons/Machine Learning",
+    "AWS SSA-C03/9999 - Assets/Icons/Databases"
+  ]
+}
